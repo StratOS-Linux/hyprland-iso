@@ -109,7 +109,7 @@ ${color1}[S]+B${alignr}${color2}BROWSER [Brave]${color}
 ${color1}[S]+D${alignr}${color2}Desktop entries${color}
 ${color1}[S]+R${alignr}${color2}Run Prompt${color}
 ${color1}[S]+C${alignr}${color2}Toggle conky${color}
-${color1}[S]+SPACE${alignr}${color2}Albert${color}
+${color1}[S]+SPACE${alignr}${color2}Open Application Launcher (Sherlock) ${color}
 ${color1}${hr}${color}
 ${color1}[S]+[SHIFT]+R${alignr}${color2}Restart Waybar${color}
 ${color1}[S]+[SHIFT]+W${alignr}${color2}Restart Eww${color}

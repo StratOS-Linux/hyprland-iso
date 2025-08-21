@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Spotify",
+    "alias": null,
+    "tag_start": null,
+    "tag_end": null,
+    "display_name": null,
+    "on_return": null,
+    "next_content": null,
+    "type": "audio_sink",
+    "priority": 1.0,
+    "exit": true,
+    "shortcut": true,
+    "spawn_focus": false,
+    "async": true,
+    "home": "OnlyHome",
+    "args": {},
+    "binds": [
+      {
+        "bind": "Return",
+        "callback": "playpause",
+        "exit": false
+      },
+      {
+        "bind": "l",
+        "callback": "next",
+        "exit": false
+      },
+      {
+        "bind": "h",
+        "callback": "previous",
+        "exit": false
+      }
+    ],
+    "actions": [
+      {
+        "name": "Skip",
+        "exec": null,
+        "icon": "media-seek-forward",
+        "method": "inner.next",
+        "exit": false
+      },
+      {
+        "name": "Previous",
+        "exec": null,
+        "icon": "media-seek-backward",
+        "method": "inner.previous",
+        "exit": false
+      }
+    ],
+    "add_actions": null
+  },
+  {
+    "name": "Calculator",
+    "alias": null,
+    "tag_start": null,
+    "tag_end": null,
+    "display_name": null,
+    "on_return": "copy",
+    "next_content": null,
+    "type": "calculation",
+    "priority": 1.0,
+    "exit": true,
+    "shortcut": true,
+    "spawn_focus": true,
+    "async": false,
+    "home": "Search",
+    "args": {
+      "capabilities": [
+        "calc.math",
+        "calc.units"
+      ]
+    },
+    "binds": null,
+    "actions": null,
+    "add_actions": null
+  },
+  {
+    "name": "App Launcher",
+    "alias": "app",
+    "tag_start": null,
+    "tag_end": null,
+    "display_name": null,
+    "on_return": null,
+    "next_content": null,
+    "type": "app_launcher",
+    "priority": 3.0,
+    "exit": true,
+    "shortcut": true,
+    "spawn_focus": true,
+    "async": false,
+    "home": "Home",
+    "args": {},
+    "binds": null,
+    "actions": null,
+    "add_actions": null
+  },
+  {
+    "name": "Kill Process",
+    "alias": "kill",
+    "tag_start": null,
+    "tag_end": null,
+    "display_name": null,
+    "on_return": null,
+    "next_content": null,
+    "type": "process",
+    "priority": 0.0,
+    "exit": true,
+    "shortcut": true,
+    "spawn_focus": true,
+    "async": false,
+    "home": "Search",
+    "args": {},
+    "binds": null,
+    "actions": null,
+    "add_actions": null
+  },
+  {
+    "name": "Web Search",
+    "alias": "gg",
+    "tag_start": "{keyword}",
+    "tag_end": null,
+    "display_name": "Google Search",
+    "on_return": null,
+    "next_content": null,
+    "type": "web_launcher",
+    "priority": 100.0,
+    "exit": true,
+    "shortcut": true,
+    "spawn_focus": true,
+    "async": false,
+    "home": "Search",
+    "args": {
+      "icon": "google",
+      "search_engine": "google"
+    },
+    "binds": null,
+    "actions": null,
+    "add_actions": null
+  }
+]

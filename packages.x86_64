@@ -1,4 +1,3 @@
-albert
 alsa-utils
 amd-ucode
 archlinux-keyring
@@ -11,7 +10,6 @@ bibata-cursor-theme-bin
 broadcom-wl
 calamares
 cmake
-chromium
 dbus
 dhclient
 dhcpcd
@@ -24,7 +22,6 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-emacs
 ethtool
 # eww
 exfatprogs
@@ -39,21 +36,19 @@ git
 github-cli
 
 # Hyprland-related
-albert
 conky
 ly
 waybar
 dunst
 pipewire-pulse
 network-manager-applet
-## nwg-clipman
-nwg-dock-hyprland-bin
+nwg-clipman
 grim
 slurp
 swappy
 pinentry
 wireplumber
-# pyprland
+pyprland
 hyprland
 hyprcursor
 hyprlock
@@ -66,7 +61,7 @@ xdg-desktop-portal-gtk
 
 gpart
 gptfdisk
-grab
+# grab
 grub
 hdparm
 intel-ucode
@@ -80,6 +75,7 @@ kpmcore
 kvantum
 lazygit
 less
+libpwquality
 libusb-compat
 libxpm
 licenses
@@ -102,6 +98,7 @@ mtools
 nano
 # nbd
 neovim
+gnu-netcat
 networkmanager
 network-manager-applet
 # nfs-utils
@@ -113,7 +110,7 @@ open-vm-tools
 openssh
 os-prober
 pacman-contrib
-# parted
+parted
 playerctl
 polkit-gnome
 pv
@@ -126,10 +123,23 @@ rockers
 ripgrep
 rsync
 sg3_utils
+sherlock-launcher-bin
 smartmontools
 sof-firmware
 squashfs-tools
 starship
+emacs-pgtk-nativecomp
+stratmacs-config
+stratos-btop-config
+stratos-calamares-config
+# stratos-eww-config
+stratos-fish-config
+stratos-hyprland-config
+stratos-kitty-config
+stratos-mako-config
+stratos-starship-config
+stratos-waybar-hyprland-config
+stratos-wallpapers
 sudo
 syslinux
 systemd-resolvconf
@@ -144,7 +154,6 @@ noto-fonts
 usb_modeswitch
 usbmuxd
 usbutils
-# vim
 wireless-regdb
 wireless_tools
 wget
@@ -154,6 +163,8 @@ xf86-video-amdgpu
 xf86-video-nouveau
 xorg
 xorg-server
+yaml-cpp
 yay-bin
-zsh
-zsh-syntax-highlighting
+zen-browser-bin
+# zsh
+# zsh-syntax-highlighting
