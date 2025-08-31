@@ -9,6 +9,7 @@ bat
 bibata-cursor-theme-bin
 broadcom-wl
 calamares
+# calamares-git
 cmake
 dbus
 dhclient
@@ -23,7 +24,7 @@ e2fsprogs
 edk2-shell
 efibootmgr
 ethtool
-# eww
+eww
 exfatprogs
 eza
 fastfetch
@@ -129,11 +130,14 @@ sof-firmware
 squashfs-tools
 starship
 emacs-pgtk-nativecomp
+sddm-astronaut-theme
 stratmacs-config
+stratos-bin
 stratos-btop-config
 stratos-calamares-config
-# stratos-eww-config
+stratos-eww-config
 stratos-fish-config
+stratos-fonts
 stratos-hyprland-config
 stratos-kitty-config
 stratos-mako-config
