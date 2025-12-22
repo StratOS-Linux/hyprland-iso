@@ -63,7 +63,7 @@ xdg-desktop-portal-gtk
 
 gpart
 gptfdisk
-grab
+# grab
 grub
 hdparm
 intel-ucode
@@ -88,7 +88,7 @@ linux-firmware-marvell
 lvm2
 man-db
 man-pages
-maneki-neko
+# maneki-neko
 mdadm
 memtest86+
 memtest86+-efi
@@ -100,7 +100,7 @@ mtools
 nano
 # nbd
 neovim
-gnu-netcat
+# gnu-netcat
 networkmanager
 network-manager-applet
 # nfs-utils
@@ -125,7 +125,7 @@ rockers
 ripgrep
 rsync
 sg3_utils
-sherlock-launcher-bin
+# sherlock-launcher-bin
 smartmontools
 sof-firmware
 squashfs-tools
@@ -133,10 +133,15 @@ starship
 stratmacs-config
 stratos-btop-config
 stratos-calamares-config
+stratos-eww-config
+stratos-fish-config
 stratos-grub
+stratos-hyprland-config
 stratos-kitty-config
 stratos-mako-config
 stratos-starship-config
+# stratos-sherlock-config # doesn't exist YET
+stratos-waybar-config
 stratos-wallpapers
 stratvim
 sudo
@@ -153,6 +158,7 @@ noto-fonts
 usb_modeswitch
 usbmuxd
 usbutils
+vicinae-bin
 vim
 wireless-regdb
 wireless_tools
