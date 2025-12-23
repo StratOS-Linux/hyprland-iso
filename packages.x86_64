@@ -34,6 +34,7 @@ fatresize
 fd
 fish
 fzf
+ghostty
 git
 github-cli
 
@@ -72,7 +73,7 @@ iw
 iwd
 jq
 kcrash
-kitty
+# kitty
 kpmcore
 kvantum
 lazygit
@@ -136,9 +137,10 @@ stratos-btop-config
 stratos-calamares-config
 stratos-eww-config
 stratos-fish-config
+stratos-ghostty-config
 stratos-grub
 stratos-hyprland-config
-stratos-kitty-config
+# stratos-kitty-config
 stratos-mako-config
 stratos-starship-config
 # stratos-sherlock-config # doesn't exist YET
