@@ -144,7 +144,7 @@ stratos-starship-config
 # stratos-sherlock-config # doesn't exist YET
 stratos-waybar-config
 stratos-wallpapers
-stratvim
+# stratvim
 sudo
 syslinux
 systemd-resolvconf
