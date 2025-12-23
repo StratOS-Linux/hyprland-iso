@@ -40,13 +40,14 @@ github-cli
 
 # Hyprland-related
 conky
-ly
+# ly
 waybar
 dunst
 pipewire-pulse
 network-manager-applet
 ## nwg-clipman
 grim
+sddm-astronaut-theme
 slurp
 swappy
 pinentry
