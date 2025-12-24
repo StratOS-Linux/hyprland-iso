@@ -10,7 +10,6 @@ bibata-cursor-theme-bin
 broadcom-wl
 calamares
 cmake
-chromium
 dbus
 dhclient
 dhcpcd
@@ -175,5 +174,6 @@ xorg
 xorg-server
 yaml-cpp
 yay-bin
+zen-browser-bin
 zsh
 zsh-syntax-highlighting
