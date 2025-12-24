@@ -73,8 +73,6 @@ iw
 iwd
 jq
 kcrash
-# kitty
-kpmcore
 kvantum
 lazygit
 less
@@ -140,9 +138,8 @@ stratos-fish-config
 stratos-ghostty-config
 stratos-grub
 stratos-hyprland-config
-# stratos-kitty-config
-stratos-mako-config
 stratos-starship-config
+stratos-swaync-config
 # stratos-sherlock-config # doesn't exist YET
 stratos-waybar-config
 stratos-wallpapers
