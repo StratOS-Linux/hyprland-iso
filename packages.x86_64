@@ -61,7 +61,7 @@ udiskie
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-gtk
 
-
+dkms
 gpart
 gptfdisk
 # grab
@@ -81,6 +81,7 @@ libusb-compat
 libxpm
 licenses
 linux
+linux-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
