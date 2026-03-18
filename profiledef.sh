@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="StratOS"
+iso_name="StratOS-Hyprland"
 iso_label="STRATOS_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="StratOS Team <https://github.com/StratOS-Linux/StratOS>"
 iso_application="StratOS Live ISO"

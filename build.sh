@@ -11,6 +11,6 @@ sudo mkarchiso -v \
      -o output \
      ./
 echo output/*.iso | awk -F/ '{print $NF}'
-if [ -d  /mnt/stratos/ISOs/hyprland-iso ]; then
-    sudo mv output/*.iso /mnt/stratos/ISOs/hyprland-iso/
-fi
+#if [ -d  /mnt/stratos/ISOs/hyprland-iso ]; then
+ #   sudo mv output/*.iso /mnt/stratos/ISOs/hyprland-iso/
+#fi

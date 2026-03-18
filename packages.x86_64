@@ -58,13 +58,15 @@ hyprlock
 hyprpaper
 hypridle
 udiskie
+xdg-user-dirs
+xdg-user-dirs-gtk
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-gtk
 
-
+dkms
 gpart
 gptfdisk
-# grab
+grab
 grub
 hdparm
 intel-ucode
@@ -81,6 +83,7 @@ libusb-compat
 libxpm
 licenses
 linux
+linux-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -99,7 +102,7 @@ mtools
 nano
 # nbd
 neovim
-# gnu-netcat
+openbsd-netcat
 networkmanager
 network-manager-applet
 # nfs-utils
@@ -140,7 +143,7 @@ stratos-grub
 stratos-hyprland-config
 stratos-starship-config
 stratos-swaync-config
-# stratos-sherlock-config # doesn't exist YET
+stratos-vicinae-config
 stratos-waybar-config
 stratos-wallpapers
 # stratvim
