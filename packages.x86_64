@@ -22,7 +22,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-emacs-pgtk-nativecomp
+# emacs-pgtk-nativecomp
 ethtool
 eww
 exfatprogs
@@ -138,13 +138,13 @@ stratos-btop-config
 stratos-calamares-config
 stratos-eww-config
 stratos-fish-config
+stratos-fonts
 stratos-ghostty-config
 stratos-grub
 stratos-hyprland-config
-stratos-starship-config
+stratos-starship-hyprland-config
 stratos-swaync-config
 stratos-vicinae-config
-stratos-waybar-config
 stratos-wallpapers
 # stratvim
 sudo
